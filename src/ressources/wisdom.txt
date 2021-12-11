@@ -1,0 +1,7 @@
+happy	Beauty is everywhere. You only have to look to see it.
+sad	A depressing and difficult passage has prefaced every page I have turned in life.
+anger	Anger makes you smaller, while forgiveness forces you to grow beyond what you were.
+fear	I'm not afraid of storms, for I'm learning how to sail my ship.
+disgust	The greatest pleasures are only narrowly separated from disgust.
+surprise	Each day holds a surprise. But only if we expect it can we see, hear, or feel it when it comes to us. Let's not be afraid to receive each day's surprise, whether it comes to us as sorrow or as joy It will open a new place in our hearts, a place where we can welcome new friends and celebrate more fully our shared humanity.
+neutral	The technology-laced Nasdaq Composite Index <.IXIC> climbed 19.11 points, or 1.2 percent, to 1,615.02.
