@@ -1,0 +1,7 @@
+happy;You look happy, keep it up.
+sad;Why are you sad? :(
+anger;Tell me why youre angry ಠ_ಠ
+fear;What scares you? >.<
+disgust;You look digusted...
+surprise;Surprised?
+neutral;...
