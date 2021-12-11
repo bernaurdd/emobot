@@ -3,8 +3,32 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a434c797-6551-48d0-a376-2f4c35cc2c11" name="Changes" comment="opencv gui template" />
+    <list default="true" id="a434c797-6551-48d0-a376-2f4c35cc2c11" name="Changes" comment="opencv gui template">
+      <change afterPath="$PROJECT_DIR$/src/detection/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/detection/detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/detection/haarcascade_frontalface_default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/detection/model.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +52,7 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="JupyterTrust" id="9cf3f19f-900a-499f-8316-2c0258ac1c1d" />
   <component name="ProjectId" id="229VxpK3aDjjoiygPqnVCU5497H" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -51,6 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/display_text_cv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -99,5 +125,30 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="opencv gui template" />
     <option name="LAST_COMMIT_MESSAGE" value="opencv gui template" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1639256731532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1639256731532" />
+    <state width="1877" height="325" key="GridCell.Tab.0.bottom" timestamp="1639256690970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1639256690970" />
+    <state width="1877" height="325" key="GridCell.Tab.0.center" timestamp="1639256690970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1639256690970" />
+    <state width="1877" height="325" key="GridCell.Tab.0.left" timestamp="1639256690970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1639256690970" />
+    <state width="1877" height="325" key="GridCell.Tab.0.right" timestamp="1639256690970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1639256690970" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/emobot$main.coverage" NAME="main Coverage Results" MODIFIED="1639255678968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>
