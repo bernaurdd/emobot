@@ -1,14 +1,14 @@
-happy	Beauty is everywhere. You only have to look to see it.
-happy   True happiness is on the inside.
-happy   Live, laugh, love.
-sad	A depressing and difficult passage has prefaced every page I have turned in life.
-sad Sometimes you eat a bar, and sometimes the bar eats you.
-sad Sadness flies away on the wings of time.
-anger	Anger makes you smaller, while forgiveness forces you to grow beyond what you were.
-anger   You cannot see your reflection in boiling water. Similarly, you cannot see truth in a state of anger.
-fear	I'm not afraid of storms, for I'm learning how to sail my ship.
-fear    Do one thing that scares you every day.
-disgust	The greatest pleasures are only narrowly separated from disgust.
-surprise	Each day holds a surprise. But only if we expect it can we see, hear, or feel it when it comes to us. Let's not be afraid to receive each day's surprise, whether it comes to us as sorrow or as joy It will open a new place in our hearts, a place where we can welcome new friends and celebrate more fully our shared humanity.
-surprise    The best things happen unexpectedly.
-neutral	The technology-laced Nasdaq Composite Index <.IXIC> climbed 19.11 points, or 1.2 percent, to 1,615.02.
+happy;career;Beauty is everywhere. You only have to look to see it.
+happy;relationship;True happiness is on the inside.
+happy;relationship;Live, laugh, love.
+sad;career;A depressing and difficult passage has prefaced every page I have turned in life.
+sad;career;Sometimes you eat a bar, and sometimes the bar eats you.
+sad;relationship;Sadness flies away on the wings of time.
+anger;career;Anger makes you smaller, while forgiveness forces you to grow beyond what you were.
+anger;relationship;You cannot see your reflection in boiling water. Similarly, you cannot see truth in a state of anger.
+fear;career;I'm not afraid of storms, for I'm learning how to sail my ship.
+fear;relationship;Do one thing that scares you every day.
+disgust;career;The greatest pleasures are only narrowly separated from disgust.
+surprise;career;Each day holds a surprise. But only if we expect it can we see, hear, or feel it when it comes to us. Let's not be afraid to receive each day's surprise, whether it comes to us as sorrow or as joy It will open a new place in our hearts, a place where we can welcome new friends and celebrate more fully our shared humanity.
+surprise;relationship;The best things happen unexpectedly.
+neutral;career;The technology-laced Nasdaq Composite Index <.IXIC> climbed 19.11 points, or 1.2 percent, to 1,615.02.
