@@ -79,7 +79,7 @@ class EmotionDetection:
             if quote is not None:
                 cv2.putText(frame, f'{quote}', (width // 2, height // 2), font, 1, (0, 0, 0), 5, cv2.LINE_AA)
 
-            if time.perf_counter() - self.start_time > 10:
+            if time.perf_counter() - self.start_time > 5:
                 self.start_time = time.perf_counter()
                 emotion = max(emotion_count, key=emotion_count.get)
                 quote = self.emobot.getAdvice(emotion)
