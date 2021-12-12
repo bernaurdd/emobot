@@ -37,3 +37,4 @@ class Adviser():
                 max = num
                 pred_topic = name
         return pred_topic
+
