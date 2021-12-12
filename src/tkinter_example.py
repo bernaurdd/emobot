@@ -5,6 +5,9 @@ from PIL import Image, ImageTk
 import cv2
 from random import choice
 # --- functions ---
+from src.detection.detection import EmotionDetection
+
+detection = EmotionDetection('detection')
 
 def update_frame():
     ret, frame = cap.read()
@@ -12,8 +15,10 @@ def update_frame():
     photo.paste(image)
 
     #description['text'] = 'new text'
-
-    root.after(10, update_frame)
+    emotion = detection.detect_emotion(image)
+    if emotion is not None:
+        print(emotion)
+    root.after(30, update_frame)
 
 def send():
     question = user.get()
