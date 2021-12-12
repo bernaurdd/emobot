@@ -11,4 +11,5 @@ fear;relationship;Do one thing that scares you every day.
 disgust;career;The greatest pleasures are only narrowly separated from disgust.
 surprise;career;Each day holds a surprise. But only if we expect it can we see, hear, or feel it when it comes to us. Let's not be afraid to receive each day's surprise, whether it comes to us as sorrow or as joy It will open a new place in our hearts, a place where we can welcome new friends and celebrate more fully our shared humanity.
 surprise;relationship;The best things happen unexpectedly.
-neutral;career;The technology-laced Nasdaq Composite Index <.IXIC> climbed 19.11 points, or 1.2 percent, to 1,615.02.
+neutral;career;hmm.. I understand.
+neutral;relationship;hmm.. I understand.
