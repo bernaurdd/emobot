@@ -1,0 +1,15 @@
+happy;career;Oh.. hmm.. career.. try looking at it like this: Beauty is everywhere. You only have to look to see it.
+happy;relationship;Oh.. hmm.. relationships.. try looking at it like this: True happiness is on the inside.
+happy;relationship;Oh.. hmm.. relationships.. try looking at it like this: Live, laugh, love.
+sad;career;Oh.. hmm.. career.. try looking at it like this:A depressing and difficult passage has prefaced every page I have turned in life.
+sad;career;Oh.. hmm.. career.. try looking at it like this: Sometimes you eat a bar, and sometimes the bar eats you.
+sad;relationship;Oh.. hmm.. relationships.. try looking at it like this:Sadness flies away on the wings of time.
+anger;career;Oh.. hmm.. career.. try looking at it like this: Anger makes you smaller, while forgiveness forces you to grow beyond what you were.
+anger;relationship;Oh.. hmm.. relationships.. try looking at it like this:You cannot see your reflection in boiling water. Similarly, you cannot see truth in a state of anger.
+fear;career;Oh.. hmm.. career.. try looking at it like this: I'm not afraid of storms, for I'm learning how to sail my ship.
+fear;relationship;Oh.. hmm.. relationships.. try looking at it like this:Do one thing that scares you every day.
+disgust;career;Oh.. hmm.. career.. try looking at it like this: The greatest pleasures are only narrowly separated from disgust.
+surprise;career;Oh.. hmm.. career.. try looking at it like this: Each day holds a surprise. But only if we expect it can we see, hear, or feel it when it comes to us. Let's not be afraid to receive each day's surprise, whether it comes to us as sorrow or as joy It will open a new place in our hearts, a place where we can welcome new friends and celebrate more fully our shared humanity.
+surprise;relationship;Oh.. hmm.. relationships.. try looking at it like this:The best things happen unexpectedly.
+neutral;career;hmm.. I understand.
+neutral;relationship;hmm.. I understand.
